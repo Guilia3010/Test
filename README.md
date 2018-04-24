@@ -9,3 +9,7 @@ Wir bieten Ihnen folgenden Leistungen:
 
 **Kontaktieren Sie uns**
 Tel: +49 (0) 89 
+
+| Unsere Leistungen für Sie | Ihr Nutzen |
+|:--------------------------|-----------:|
+| Kompetenz | Zuverlässigkeit |
